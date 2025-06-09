@@ -27,7 +27,7 @@ El objetivo de este proyecto es proporcionar una herramienta que permita a los u
 
 ## Video Tutorial
 
-Enlace al video tutorial: [https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+Enlace al video tutorial: [Ver video en YouTube](https://youtu.be/0MeQ0r5WYCc)
 
 ## Reflexiones del Equipo
 
